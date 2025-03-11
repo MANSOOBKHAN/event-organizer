@@ -8,11 +8,11 @@ Live Site
 
 ## 📌 Features
 
-### Explore Different Peoples
+ Explore Different Peoples
 
-### Join and Register to Events.
+ Join and Register to Events.
 
-### Create Your Events
+ Create Your Events
 
 ## 🛠 Tech Stack
 
@@ -35,4 +35,4 @@ This project is licensed under the MIT License.
 
 Your Name - LinkedIn
 
-Email: your-email@example.com
+Email: mansoobk90

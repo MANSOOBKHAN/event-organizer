@@ -137,10 +137,10 @@ const Home = () => {
               <h3>Communion</h3>
               <p>Discover the power of connection with Communion. Uniting diverse communities through spirituality and innovation, we foster inclusivity, collaboration, and social cohesion for a better world.</p>
               <div className="social-links">
-                <a href="#" aria-label="Facebook"><Facebook /></a>
-                <a href="#" aria-label="Twitter"><Twitter /></a>
-                <a href="#" aria-label="Instagram"><Instagram /></a>
-                <a href="#" aria-label="YouTube"><Youtube /></a>
+                <a href="https://www.facebook.com/haider.shhs" aria-label="Facebook"><Facebook /></a>
+                <a href="https://x.com/i/flow/login" aria-label="Twitter"><Twitter /></a>
+                <a href="https://www.instagram.com/aniverse.to/" aria-label="Instagram"><Instagram /></a>
+                <a href="https://www.youtube.com/" aria-label="YouTube"><Youtube /></a>
               </div>
             </div>
             <div className="footer-links">
