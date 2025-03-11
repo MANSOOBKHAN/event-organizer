@@ -138,7 +138,7 @@ const Home = () => {
               <p>Discover the power of connection with Communion. Uniting diverse communities through spirituality and innovation, we foster inclusivity, collaboration, and social cohesion for a better world.</p>
               <div className="social-links">
                 <a href="https://www.facebook.com/haider.shhs" aria-label="Facebook"><Facebook /></a>
-                <a href="https://x.com/i/flow/login" aria-label="Twitter"><Twitter /></a>
+                <a href="https://www.instagram.com/aniverse.to/" aria-label="Twitter"><Twitter /></a>
                 <a href="https://www.instagram.com/aniverse.to/" aria-label="Instagram"><Instagram /></a>
                 <a href="https://www.youtube.com/" aria-label="YouTube"><Youtube /></a>
               </div>
