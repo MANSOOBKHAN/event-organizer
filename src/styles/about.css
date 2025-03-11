@@ -1,0 +1,279 @@
+.about-page {
+  background: #f8fafc;
+}
+
+.about-hero {
+  height: 60vh;
+  background: linear-gradient(rgba(66, 153, 225, 0.1), rgba(66, 153, 225, 0.2)),
+    url('https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=1920&h=1080') center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 20px;
+  margin-top: 80px;
+}
+
+.about-hero-content {
+  max-width: 800px;
+}
+
+.about-hero h1 {
+  font-size: 4rem;
+  color: #2b6cb0;
+  margin-bottom: 1.5rem;
+  font-weight: 800;
+}
+
+.about-hero p {
+  font-size: 1.5rem;
+  color: #2d3748;
+  line-height: 1.6;
+}
+
+.about-stats {
+  padding: 100px 20px;
+  background: white;
+}
+
+.stats-grid {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 40px;
+}
+
+.stat-card {
+  text-align: center;
+  padding: 30px;
+  background: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(66, 153, 225, 0.1);
+}
+
+.stat-card h3 {
+  font-size: 2.5rem;
+  color: #2b6cb0;
+  margin-bottom: 10px;
+  font-weight: 800;
+}
+
+.stat-card p {
+  color: #4a5568;
+  font-size: 1.1rem;
+}
+
+.about-values {
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #f8fafc, #ebf8ff);
+}
+
+.about-values h2 {
+  text-align: center;
+  font-size: 3rem;
+  color: #2b6cb0;
+  margin-bottom: 60px;
+  font-weight: 800;
+}
+
+.values-grid {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 40px;
+}
+
+.value-card {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(66, 153, 225, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.value-card:hover {
+  transform: translateY(-10px);
+}
+
+.value-icon {
+  width: 48px;
+  height: 48px;
+  color: #4299e1;
+  margin-bottom: 20px;
+}
+
+.value-card h3 {
+  font-size: 1.5rem;
+  color: #2b6cb0;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.value-card p {
+  color: #4a5568;
+  line-height: 1.6;
+}
+
+.about-story {
+  padding: 100px 20px;
+  background: white;
+}
+
+.story-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+}
+
+.story-text h2 {
+  font-size: 3rem;
+  color: #2b6cb0;
+  margin-bottom: 30px;
+  font-weight: 800;
+}
+
+.story-text p {
+  color: #4a5568;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.story-image img {
+  width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(66, 153, 225, 0.1);
+}
+
+.about-team {
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #f8fafc, #ebf8ff);
+}
+
+.about-team h2 {
+  text-align: center;
+  font-size: 3rem;
+  color: #2b6cb0;
+  margin-bottom: 60px;
+  font-weight: 800;
+}
+
+.team-grid {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 40px;
+}
+
+.team-card {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(66, 153, 225, 0.1);
+}
+
+.team-card img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  border: 4px solid #4299e1;
+}
+
+.team-card h3 {
+  font-size: 1.5rem;
+  color: #2b6cb0;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+
+.team-card .role {
+  color: #4299e1;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.team-card .bio {
+  color: #4a5568;
+  line-height: 1.6;
+}
+
+.about-join {
+  padding: 100px 20px;
+  background: linear-gradient(rgba(66, 153, 225, 0.1), rgba(66, 153, 225, 0.2)),
+    url('https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=1920&h=1080') center/cover fixed;
+  text-align: center;
+}
+
+.join-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.join-content h2 {
+  font-size: 3rem;
+  color: #2b6cb0;
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+
+.join-content p {
+  font-size: 1.2rem;
+  color: #2d3748;
+  margin-bottom: 40px;
+  line-height: 1.6;
+}
+
+.join-button {
+  padding: 15px 40px;
+  background: #4299e1;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.join-button:hover {
+  background: #2b6cb0;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(66, 153, 225, 0.2);
+}
+
+@media (max-width: 768px) {
+  .about-hero h1 {
+    font-size: 2.5rem;
+  }
+
+  .about-hero p {
+    font-size: 1.2rem;
+  }
+
+  .story-content {
+    grid-template-columns: 1fr;
+  }
+
+  .story-text {
+    order: 2;
+  }
+
+  .story-image {
+    order: 1;
+  }
+
+  .about-values h2,
+  .about-team h2,
+  .join-content h2 {
+    font-size: 2.5rem;
+  }
+}
