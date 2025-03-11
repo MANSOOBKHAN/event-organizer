@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-Live Site
+https://communityscene.netlify.app/
 
 ## 📌 Features
 
@@ -33,6 +33,6 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-Your Name - LinkedIn
+Sarosh Mansoob Khan
 
 Email: mansoobk90
